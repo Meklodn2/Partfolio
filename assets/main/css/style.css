@@ -168,3 +168,15 @@ font-weight: 900;
 .featured_works{
     width: 100%;
 }
+
+
+footer{ 
+    display:block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 600px;
+}
+
+footer .icons{
+    margin-left:75px;
+}
